@@ -1,3 +1,7 @@
+# my personal addition
+*.sublime-project
+*.sublime-workspace
+
 # MacOS specific
 .DS_Store
 
